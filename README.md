@@ -1,4 +1,4 @@
-📊 Exploratory Data Analysis on Loan Approval Dataset
+# 📊 Exploratory Data Analysis on Loan Approval Dataset
 📌 Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a Loan Approval dataset to understand the factors that influence loan approval decisions.
